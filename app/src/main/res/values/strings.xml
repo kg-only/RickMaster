@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RickMaster</string>
+    <string name="my_house">Мой дом</string>
+    <string name="cameras">Камеры</string>
+    <string name="doors">Двери</string>
+    <string name="living_room">Гостиная</string>
+    <string name="online">В сети</string>
+    <string name="fill_new_text">Введите новый текст</string>
+    <string name="submit">Подтвердить</string>
+    <string name="cancel">Отмена</string>
+</resources>
